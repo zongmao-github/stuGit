@@ -6,5 +6,5 @@ this is my change for row five!
 this is my change for row six : my stupid boss still prefers SNV!
 this is my change for row senen: again!
 this is my change for row eight: study branch!
-Creating a new branch is quick and simple.
+Creating a new branch is quick and simple(this is a bug, and resolved now!).
 this is my change for row nine: study git merge!
